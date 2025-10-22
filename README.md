@@ -1,5 +1,18 @@
 # 🌟 IronVertex Fan Template (v0.1)
 
+<p align="center">
+  <img src="public/mockups/Team_IronVortex.png" alt="Iron Vertex Fan Template Preview" width="800"/>
+</p>
+
+<p align="center">
+  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/Made%20with-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/Built%20with-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/Version-0.1-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Type-Fan%20Project-purple?style=for-the-badge" />
+</p>
+
+---
+
 **A fan-made web interface inspired by the official [Iron Vertex](https://ironvertex.com/)** — built with **React + Vite** and styled with **pure CSS**.  
 This project is a **personal experiment** and a **creative tribute** to the Iron Vertex production team and their inspiring work in the VTuber industry.
 
@@ -79,4 +92,3 @@ Front-end Developer & Designer
 ✨ _“Created for learning. Built with passion.”_
 
 ---
-
