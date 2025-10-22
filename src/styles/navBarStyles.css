@@ -1,0 +1,77 @@
+.mainNavbar {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 5.5rem;
+    background-color: #18131e;
+    padding: 0 var(--Padding_Left_Right_Main);
+}
+
+.mainNavbar .imgLogoContent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12rem;
+    height: auto;
+}
+
+.mainNavbar .imgLogoContent img {
+    width: 100%;
+    height: auto;
+}
+
+.mainNavbar .menuItemsContent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    height: 100%;
+}
+
+.mainNavbar .menuItemsContent .menuContent {
+    display: flex;
+    gap: 3rem;
+    list-style: none;
+    color: var(--Text_Color_01);
+    font-size: 0.9rem;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+
+.mainNavbar .menuItemsContent .menuContent .menuItem {
+    cursor: pointer;
+    opacity: 70%;
+    transition: all .3s ease;
+}
+
+.mainNavbar .menuItemsContent .menuContent .menuItem:hover {
+    opacity: 90%;
+    text-shadow: 0px 0px 5px #FFE5D5;
+}
+
+.mainNavbar .menuItemsContent .menuContent .menuItem:active {
+    opacity: 70%;
+}
+
+.mainNavbar .menuItemsContent .menuContent .menuItem.activeItem {
+    opacity: 100%;
+    text-shadow: 0px 0px 5px #FFE5D5, 0px 0px 15px #ffe5d58e;
+}
+
+.mainNavbar .menuItemsContent .menuContent .menuItem {
+    cursor: pointer;
+    opacity: 70%;
+    transition: all .3s ease;
+    text-decoration: none;
+    /* 👈 quita el subrayado */
+    color: inherit;
+    /* 👈 hereda el color del li o contenedor */
+}
+
+.mainNavbar .menuItemsContent .menuContent .menuItem:visited,
+.mainNavbar .menuItemsContent .menuContent .menuItem:link,
+.mainNavbar .menuItemsContent .menuContent .menuItem:active {
+    text-decoration: none;
+    color: inherit;
+}

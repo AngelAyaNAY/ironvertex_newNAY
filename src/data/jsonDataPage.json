@@ -1,0 +1,90 @@
+{
+    "dataEnglish": [
+        {
+            "id_member": 1,
+            "name_member": "Brian Tsui",
+            "desc_member": "Brian Tsui self taught Live2D in 2015, and was the first to create English tutorials on Youtube. In 2016, as learners gathered, he created and managed the Live2D user Discord community, which became the official Discord.  As the community become popular, a freelance marketplace was established. Brian's own inquires quickly filled his schedule, which lead him to found Iron Vertex by 2017, a team to scale up the production.  Iron Vertex's tutorials are endorsed by the official Live2D. Following years, IV has worked with VTubers in EN, CN, and JP, and also enterprises like Hololive, HYBE, Yostar, Riot Games, Crunchyroll, Netflix.  Brian started his career with no prior art training, no fund, no social media presence. He learned first hand how to go grow a studio team from grounds up to become a stable business. IV is a proof of concept, which is for him to fulfill his true mission: to solve the 2D modeler industry problem. He believes that with the abundant skills, creativity, and drive, artists in this field deserve a sustainable career path that leads them to a lot more opportunities than what there is now.",
+            "link_member": "https://x.com/BrianTsuii"
+        },
+        {
+            "id_member": 2,
+            "name_member": "Soy",
+            "desc_member": "Soy began working with Iron Vertex behind the scenes in early 2019 as the team’s project manager, coordinating between clients, artists, and riggers to ensure projects ran smoothly and efficiently. Later that year, she learned model rigging herself to communicate more effectively with both clients and technical team members, also built several VTuber models. Soy’s main responsibility is on managing project operations from start to finish, overseeing internal and external communication, scheduling, QA, client support, PR, and HR. With her technical expertise, she is able to jump into rigging task as backup anytime, ensuring every project stays on track.",
+            "link_member": "https://x.com/sei_soy"
+        },
+        {
+            "id_member": 3,
+            "name_member": "Canain",
+            "desc_member": "Canain is the CTO of Iron Vertex and helps handle IV corporate operations. He is a Software Engineer who worked in big tech and small startups before being bored and started building way more interesting VTuber tech. Canain loves architecting anything software related with web & game tech his specialty.",
+            "link_member": "https://x.com/CanainMC"
+        },
+        {
+            "id_member": 4,
+            "name_member": "Enma",
+            "desc_member": "Enma joined Iron Vertex in its earliest days, when the group was still a creative circle, through Brian's initial animator recruitment.  In 2018, she submitted a rigging project animating a horror-themed room, which won her the Live2D Creative Award that year.  Today, as an active rigger at IV, Enma continues to explore new techniques with an inventive spirit and curiosity. Her experimental approach and willingness to push boundaries bring fresh ideas and energy to the team, sparking creativity in every project.",
+            "link_member": "https://x.com/AkatsukiEnma"
+        },
+        {
+            "id_member": 5,
+            "name_member": "Cetra",
+            "desc_member": "Cetra discovered Live2D in 2019 through the game Destiny Child and began her journey as a rigger at Iron Vertex. Under Brian’s direct mentorship, she has steadily developed her technical skills, gradually taking on more challenging model setups while collaborating closely with team members. With a careful and diligent approach to her work, Cetra continues to build her knowledge and experience day by day, contributing to team projects and supporting the overall creative process.",
+            "link_member": "https://x.com/etctr_"
+        },
+        {
+            "id_member": 6,
+            "name_member": "Zensei",
+            "desc_member": "Zensei is the second earliest member of Iron Vertex, starting out as a programmer with ambitions to create his own game. Seeking new avenues for creativity, he transitioned into digital arts, where he continued to develop his artistic side. About four years ago, discovering Live2D opened up new creative possibilities. Drawn to its expressive potential, Zensei soon made Live2D modeling his main field. Today, he brings both technical expertise and creativity to the team as a core member of Iron Vertex.",
+            "link_member": "https://www.youtube.com/@zensei_kun/videos"
+        },
+        {
+            "id_member": 7,
+            "name_member": "Katloumi",
+            "desc_member": "Katloumi joined Iron Vertex as the youngest member in 2022 and quickly distinguished herself as a modeler with a passion for growth. Keenly observant and highly motivated, she continually learns from senior members and actively seeks out new techniques, quickly turning knowledge into practice. Through steady effort and collaboration, Katloumi produces high-quality Live2D models and brings a fresh, energetic perspective that supports Iron Vertex’s high standards.",
+            "link_member": "https://x.com/Katloumi"
+        }
+    ],
+    "dataJapanese": [
+        {
+            "id_member": 1,
+            "name_member": "Brian Tsui",
+            "desc_member": "Brian Tsuiは2015年に独学でLive2Dを習得し、YouTubeで最初の英語チュートリアルを公開しました。2016年には学習者を集め、Live2DユーザーDiscordコミュニティを立ち上げ、やがて公式Discordへと発展しました。その盛り上がりからフリーランスマーケットも誕生。自らへの依頼が急増し、2017年に制作体制拡大のためIron Vertexを設立。Iron VertexのチュートリアルはLive2D公式にも認められています。その後は英語・中国語・日本語VTuberやHololive、HYBE、Yostar、Riot Games、Crunchyroll、Netflix等の企業とも取引しています。アートの専門教育・資金・SNSでの発信経験がない中、現場で一からスタジオチームを築き、安定したビジネスへ成長させてきました。Iron VertexはそのPoCであり、Brian自身の「2Dモデル業界の課題を解決する」という使命を体現しています。彼はこの分野でスキル・創造力・情熱を持つアーティストたちが、より多くのキャリアと可能性を獲得できる持続可能な道を切り拓くことを信念としています。",
+            "link_member": "https://x.com/BrianTsuii"
+        },
+        {
+            "id_member": 2,
+            "name_member": "Soy",
+            "desc_member": "2019年初めからIron Vertexのプロジェクトマネージャーとして活動を開始し、クライアント・イラストレーター・モデラー間のディレクションやスケジュール管理を通じて、案件を円滑かつ効率的に推進してきました。その後、コミュニケーション精度向上と制作現場の理解のため、自らLive2Dリギングのスキルも身につけ、実際に複数のモデル制作も担当しました。現在は主にプロジェクト全体のオペレーションマネジメントを担い、仕様調整、進行管理、チームビルディングなど、制作ワークフローの最適化に注力しています。モデラー業務がメインではなくなりましたが、テクニカルディレクションやリグのバックアップ対応もできる技術力を活かし、必要に応じて制作現場のサポートを行っています。",
+            "link_member": "https://x.com/sei_soy"
+        },
+        {
+            "id_member": 3,
+            "name_member": "Canain",
+            "desc_member": "Iron VertexのCTOであり、コーポレート部門の運営にも携わっています。ソフトウェアエンジニアとして大手テック企業やスタートアップで経験を積んだ後、VTuber技術の持つ大きな可能性に魅了され、その分野へと活動の軸足を移しました。ソフトウェア全般の設計を得意とし、特にWebおよびゲーム関連技術を専門領域としています。",
+            "link_member": "https://x.com/CanainMC"
+        },
+        {
+            "id_member": 4,
+            "name_member": "Enma",
+            "desc_member": "Iron Vertexがまだクリエイティブサークルとして活動していた初期に、Brianのアニメーター募集をきっかけに参加しました。2018年には、ホラーテーマの部屋に動きをつけたリギング作品を制作し、同年のLive2D Creative Awardを受賞しています。現在もIron Vertexのモデラーとして活躍し、斬新なアイデアと好奇心を活かし新しい技術や表現に挑戦しています。実験的なアプローチと挑戦への意欲で、毎回プロジェクトに新しいアイデアや活気をもたらし、チームの創造性を刺激し続けています。",
+            "link_member": "https://x.com/AkatsukiEnma"
+        },
+        {
+            "id_member": 5,
+            "name_member": "Cetra",
+            "desc_member": "2019年、ゲーム『デスティニーチャイルド』をきっかけにLive2Dに出会い、Iron Vertexのモデラーとして活動をスタートしました。入社後はBrianの直接指導のもと、メンバーとの協力を通じて着実にスキルアップを続け、複雑なモデルセットアップにも少しずつ挑戦しています。丁寧な作業姿勢と意欲的な取り組みで、日々技術や知識を積み重ね、チーム制作にも貢献しています。",
+            "link_member": "https://x.com/etctr_"
+        },
+        {
+            "id_member": 6,
+            "name_member": "Zensei",
+            "desc_member": "Iron Vertexで古参メンバーで活動は長いですが、もともとは自作ゲーム開発を目指すプログラマーとしてキャリアをスタートしました。その後、さらなる創造性を求めてデジタルアートへ転身し、表現の幅を広げていきます。そして約4年前にLive2Dと出会い、その表現力の高さに感銘を受け本格的に取り込むようになりました。現在はLive2Dモデラーとして、技術とクリエイティブの双方からチームに貢献しています。",
+            "link_member": "https://www.youtube.com/@zensei_kun/videos"
+        },
+        {
+            "id_member": 7,
+            "name_member": "Katloumi",
+            "desc_member": "2022年にIron Vertex最年少のメンバーとして加わったモデラーです。先輩メンバーから積極的に学び取る吸収力と向上心があり、新しい技術や表現にも果敢に取り組んでいます。自ら成長の機会を追い求めながら、着実な努力でハイクオリティなLive2Dモデルを制作し、チームにフレッシュな感性と活力をもたらしています。",
+            "link_member": "https://x.com/Katloumi"
+        }
+    ]
+}

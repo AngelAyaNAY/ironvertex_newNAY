@@ -1,0 +1,16 @@
+:root {
+    /* Margins */
+    --Padding_Left_Right_Main: 8rem;
+
+    /* TEXT */
+    --Text_Color_01: #ffe5d5;
+    --Text_Color_02: #242029;
+
+    /* BG's */
+    --BG_Color_01: #ffe5d5;
+    --BG_Color_01-2: #ffe5d50e;
+    --BG_Color_02: #fff0e5;
+    --BG_Color_03: #9a908a;
+    --BG_Color_04: #3a3443;
+    --BG_Color_05: #8d7ea5;
+}
