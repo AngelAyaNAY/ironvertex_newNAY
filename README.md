@@ -1,7 +1,7 @@
 # 🌟 IronVertex Fan Template (v0.1)
 
 <p align="center">
-  <img src="public/mockups/Team_IronVortex.png" alt="Iron Vertex Fan Template Preview" width="800"/>
+  <img src="public/mockups/Team_IronVortex.gif" alt="Iron Vertex Fan Template Preview" width="800"/>
 </p>
 
 <p align="center">
