@@ -1,21 +1,82 @@
-<<<<<<< HEAD
-# React + Vite
+# 🌟 IronVertex Fan Template (v0.1)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**A fan-made web interface inspired by the official [Iron Vertex](https://ironvertex.com/)** — built with **React + Vite** and styled with **pure CSS**.  
+This project is a **personal experiment** and a **creative tribute** to the Iron Vertex production team and their inspiring work in the VTuber industry.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 💡 About the Project
 
-## React Compiler
+This project is not affiliated with Iron Vertex.  
+It’s a **fan-created web front-end** designed to practice web development, explore UI concepts, and pay homage to the aesthetic and professional presence of Iron Vertex.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The current version (v0.1) focuses on creating a **simple and clean multi-section interface**, introducing the **members area** and basic navigation between the main sections.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# ironvertex_newNAY
-This is the new website for Iron Vertex, featuring my experience and style.
->>>>>>> 571f4bfb10c69f900f6ce140975cdb21924b6544
+## 🚀 Features
+
+- ⚡ **Built with Vite + React.js**
+- 🎨 **Full custom CSS styling** (no frameworks)
+- 🧩 **Modular structure** for pages and components
+- 🌐 **Responsive layout** inspired by modern VTuber websites
+
+---
+
+## 🗂️ Current Modules (v0.1)
+
+1. **Home** – Landing page introducing the project.  
+2. **Members** – Displays featured members (main section for v0.1).  
+3. **Portfolio** – Placeholder for future creative showcases.  
+4. **Contact Us** – Simple section for social or contact links.
+
+---
+
+## 🏗️ Project Goals
+
+- Experiment with **modern front-end tools** (React + Vite).  
+- Develop clean, maintainable **component-based code**.  
+- Practice **responsive web design** with pure CSS.  
+- Recreate a **professional and fan-inspired visual identity**.
+
+---
+
+## 🧰 Tech Stack
+
+| Tool | Description |
+|------|--------------|
+| **React.js** | Front-end library for building the UI |
+| **Vite** | Fast build tool for modern JavaScript projects |
+| **CSS3** | For styling and layout |
+| **WebP Assets** | Optimized media for performance |
+
+---
+
+## ⚠️ Disclaimer
+
+This project is **not affiliated, endorsed, or sponsored by Iron Vertex**.  
+It’s purely a **fan project** created for **learning, inspiration, and appreciation**.
+
+All credits for original branding, logos, and names go to **Iron Vertex** and their respective owners.  
+Visit the official website at 👉 [https://ironvertex.com/](https://ironvertex.com/)
+
+---
+
+## 📦 Future Plans
+
+- Add dynamic content for portfolio and news sections.  
+- Introduce animations and interactive effects.  
+- Polish layout and accessibility.  
+- Expand into a full responsive site concept.
+
+---
+
+## ❤️ Author
+
+**Miguel Ángel Ayala**  
+Front-end Developer & Designer  
+📍 Bogotá, Colombia  
+✨ _“Created for learning. Built with passion.”_
+
+---
+
